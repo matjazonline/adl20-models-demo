@@ -144,7 +144,7 @@
     "rmType" : "EVALUATION",
     "name" : "Plain note",
     "path" : "archetypes/openEHR-EHR-EVALUATION.plain_note.v1.adls",
-    "sha" : "75a66cc90285172f544b9385f01cce70d1250250",
+    "sha" : "9543f981ab081e8afadcc997768ab44480803e6f",
     "languages" : [ "en", "sl" ]
   }, {
     "id" : "openEHR-EHR-EVALUATION.problem_diagnosis.v1.0.0",
